@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+nav ul{
+    list-style-type: none;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.active{
+    color: blue;
+}
+nav ul li { 
+    display: inline;
+    float: left;
+    padding: 10;
+}
+nav ul li a { 
+    color: white;
+    
+}
