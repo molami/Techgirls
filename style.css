@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+}
+nav{ 
+    padding-bottom: 40px;
+}
+nav ul{
+    list-style-type: none;
+    list-style: none;
+}
+.active{
+    background-color: grey;
+    color: lightblue;
+}
+nav ul li { 
+    display: inline;
+    float: left;
+    text-align: center;
+    padding: 10;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    
+}
+nav ul li a { 
+    color: blue;
+    text-decoration: none;
+    padding-left: 15px;
+}
+nav ul li a:hover { 
+    background-color: black;
+}
+h1{
+    padding: 35px;
+    text-align: center;
+}
